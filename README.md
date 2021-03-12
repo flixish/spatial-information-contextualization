@@ -6,7 +6,20 @@ In order to enable the spatial contextualization of these data already during bu
 For this purpose, a method is proposed in which spatial data in the form of surface models from three-dimensional building surveys and drawings act as a reference system. This results in the challenge of transferring a building structure as an information container to an initially cluttered collection of points and two-dimensional representations in space.
 The result is a prototypical application that allows an efficient, three-dimensional modeling of the building structure and facilitates the retrieval and query of the associated documents. By modeling a building structure with a spatially abstracted representation, the information system enables early and process-oriented integration and retrieval of linked information.
 
+Demo video:
 [![spatial-information-contextualization](https://img.youtube.com/vi/v0IGAl0QV6o/0.jpg)](https://www.youtube.com/watch?v=v0IGAl0QV6o)
+
+
+## Dependencies
+
+- RuntimeTransformer
+- VaRest
+- Victory BP
+- LiDAR Pointclouds
+- Easy File Dialog
+- RuntimeMeshImportExport
+- EayXMLParser
+
 
 ### Connect with me:
 
