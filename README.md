@@ -7,6 +7,7 @@ For this purpose, a method is proposed in which spatial data in the form of surf
 The result is a prototypical application that allows an efficient, three-dimensional modeling of the building structure and facilitates the retrieval and query of the associated documents. By modeling a building structure with a spatially abstracted representation, the information system enables early and process-oriented integration and retrieval of linked information.
 
 Demo video:
+
 [![spatial-information-contextualization](https://img.youtube.com/vi/v0IGAl0QV6o/0.jpg)](https://www.youtube.com/watch?v=v0IGAl0QV6o)
 
 
